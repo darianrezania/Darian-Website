@@ -2,12 +2,12 @@ body {
     margin: 0;
     font-family: "Inter", sans-serif;
     background-color:#f4f7fb;
-    color: #1f2937;
+    color: #83459d;
     line-height: 1.7;
 }
 
 header {
-    background: #1d3557;
+    background: #8f20de;
     color: white;
     text-align: center;
     padding: 26px 20px;
@@ -66,5 +66,5 @@ ul {
 }
 
 a {
-    color: #457b9d;
+    color: #83459d;
 }
