@@ -2,12 +2,12 @@ body {
     margin: 0;
     font-family: "Inter", sans-serif;
     background-color:#f4f7fb;
-    color: #83459d;
+    color: #35374a;
     line-height: 1.7;
 }
 
 header {
-    background: #8f20de;
+    background: #1d3557;
     color: white;
     text-align: center;
     padding: 26px 20px;
@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-    color: #8f20de;
+    color: #1d3557;
     margin-top: 0;
 }
 
